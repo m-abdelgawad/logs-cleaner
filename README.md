@@ -142,8 +142,7 @@ should pass `7`.
 
 - [x] Take the root path and number of days to keep as inputs.
 - [x] Validate inputs.
-- [x] Get all files that include "*.log*" inside the specified directory
-and delete them.
+- [x] Get all files that end with "*.log*" inside the root path and delete them.
 - [x] Display each file that was deleted with its size.
 - [x] Display a final report with the number of files that were
 deleted and the total saved size.
