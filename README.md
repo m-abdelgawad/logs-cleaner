@@ -61,8 +61,6 @@
 * Version: v1.0.0
 
 ### Description
-Looking to clean up your system and free up some space? 
-This script is the solution for you! 
 
 This script deletes log files that are older than a specified number of 
 days, which is a helpful feature for maintaining your system's storage. 
@@ -76,8 +74,6 @@ This script offers multiple benefits, including:
 * Provides the user with feedback on the total number of files deleted and 
 the total size saved, giving you an idea of the impact the script 
 has had on your system. 
-
-Try out this script and enjoy a cleaner, more optimized system!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
