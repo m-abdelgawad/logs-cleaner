@@ -140,7 +140,7 @@ should pass `7`.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Take base path and number of days to keep as inputs.
+- [x] Take the root path and number of days to keep as inputs.
 - [x] Validate inputs.
 - [x] Get all files that include "*.log*" inside the specified directory
 and delete them.
