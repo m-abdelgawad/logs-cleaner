@@ -66,8 +66,8 @@ This script deletes log files that are older than a specified number of
 days, which is a helpful feature for maintaining your system's storage. 
 
 With this script, you can save time and effort by automating the process 
-of cleaning up your system. You can specify the log directory and the 
-number of days to keep files in that directory. 
+of cleaning up your system. You can specify the root path and the 
+number of days to keep log files in that path. 
 
 This script offers multiple benefits, including:
 * Freeing up valuable disk space and helping to optimize system performance. 
